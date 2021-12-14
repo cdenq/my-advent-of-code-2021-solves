@@ -5,5 +5,5 @@
 `My Advent of Code 2021' is a collection of code submissions to the (Advent of Code 2021)[https://adventofcode.com/] event. I also documented my strategies for the challenge.
 
 ## Built with
-- Visual Studio Basic (VSB)
 - Python
+- Visual Studio Code (VSC)
