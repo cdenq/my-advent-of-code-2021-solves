@@ -7,6 +7,13 @@
 I also exported every answer to a .csv file called [`submission_answers.csv`](https://github.com/cdenq/my-advent-of-code-2021-solves/blob/main/submission_answers.csv) for anyone that wants to quickly compare answers.
 
 ## Built with
-- Python
+- IDE:
+    - Visual Studio Code (VSC)
+    - Jupyter Notebook
+- Language:
+    - Native Python
+- Visualization:
+    - Photoshop, (Photopea)[https://www.photopea.com/]
+    - Snipping Tool
 
 ## Screenshots
