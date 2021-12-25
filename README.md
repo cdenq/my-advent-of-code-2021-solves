@@ -13,7 +13,6 @@ I also exported every answer to a .csv file called [`submission_answers.csv`](ht
 - Language:
     - Native Python
 - Visualization:
-    - Photoshop, [Photopea](https://www.photopea.com/)
     - Snipping Tool
 
 ## Screenshots
