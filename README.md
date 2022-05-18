@@ -6,6 +6,8 @@
 
 I also exported every answer to a .csv file called [`submission_answers.csv`](https://github.com/cdenq/my-advent-of-code-2021-solves/blob/main/submission_answers.csv) for anyone that wants to quickly compare answers.
 
+NOTE: I am slowly going back to clean up the notebooks for this event; in the meantime this repo will be "incomplete".
+
 ## Built with
 - IDE:
     - Visual Studio Code (VSC)
