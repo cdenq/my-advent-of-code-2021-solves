@@ -2,11 +2,9 @@
 
 ## About My Advent of Code 2021
 
-`My Advent of Code 2021` is a collection of code submissions to the [Advent of Code 2021](https://adventofcode.com/) event. I also documented my brainstorming, strategizing, and optimization processess. Attempted to use only native Python.
+`My Advent of Code 2021` is a collection of code submissions to the [Advent of Code 2021](https://adventofcode.com/) event. I also documented my brainstorming, strategizing, and optimization processess wihtin each notebook, should that be helpful for other fellow code-learners. I try to use native Python as much as possible, but some standard packages are imported every now and then.
 
 I also exported every answer to a .csv file called [`submission_answers.csv`](https://github.com/cdenq/my-advent-of-code-2021-solves/blob/main/submission_answers.csv) for anyone that wants to quickly compare answers.
-
-NOTE: Am slowly going back to clean up the notebooks; repo will remain "incomplete" until everything is properly ported.
 
 ## Built with
 - IDE:
